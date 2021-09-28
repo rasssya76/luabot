@@ -4,20 +4,19 @@
 	"zeksKey": "apivinz", 
 	"autoRead": false, 
 	"maxLimit": 300, 
-	"ownerList": ["9177xxxxx@s.whatsapp.net","91xxxxxx@s.whatsapp.net"],
+	"ownerList": ["6281515589573@s.whatsapp.net","91xxxxxx@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
         "apiLol": "https://api.lolhuman.xyz",
         "apiUhy": "https://dapuhy-api.herokuapp.com",
         "imgUrl": "https://i.ibb.co/MfN5zC4/images.jpg",
         "igUrl": "https://instagram.com/lua.cheia007",
         "githubUrl": "https://github.com/xxirfanx",
-	"botname": "𝖑𝖚𝖆 𝖇𝖔𝖙💫", 
-        "ownername": "IRFAN
- LUA",
-	"xkey": "your_key", 
+	"botname": "R-Bot V2", 
+        "ownername": "RamaGans",
+	"xkey": "c81b3345e477a0c7", 
         "eztykey": "eztyb",
-        "lolkey": "your_key", 
-        "uhykey": "your_key",
-	"pack": "LUA", 
-	"author": "CHEIA💫"
+        "lolkey": "genbotkey", 
+        "uhykey": "BryanRfly'",
+	"pack": "R-BOT V2", 
+	"author": "RamaGans"
 }
